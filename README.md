@@ -57,6 +57,6 @@ To understand and apply UX design processes by identifying user pain points, wri
 
   Meena Iyer – 60, Retired Teacher, struggles with accessibility and navigation.
 
-Result:
+## Result:
 
 By conducting this experiment, we understood how defining UX problem statements, selecting suitable research methods, and creating personas contribute to designing user-centered solutions. The process highlights the importance of empathy and structured research in UX design.
