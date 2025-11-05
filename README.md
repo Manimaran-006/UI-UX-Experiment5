@@ -17,15 +17,15 @@ To understand and apply UX design processes by identifying user pain points, wri
 
 5.Create user personas for each scenario including:
 
-   1.Demographics
+    1.Demographics
 
-   2.Goals
+    2.Goals
 
-   3.Behaviors
+    3.Behaviors
 
-   4.Pain Points
+    4.Pain Points
 
-   5.Motivations
+    5.Motivations
 
  6.Present findings for each scenario in structured form.
 
